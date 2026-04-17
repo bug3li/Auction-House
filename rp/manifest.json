@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Auction House",
+        "description": "...",
+        "uuid": "2a2785cb-a103-486d-8e0e-7ad027b06666",
+        "version": "1.3.6",
+        "min_engine_version": [1, 21, 130],
+        "pack_scope": "world"
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "46c97b40-5983-4c0f-8e7a-a2ae06bf42c3",
+            "version": "1.3.0"
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "cf67c27b-ec93-4c4a-beaa-2f19db8c2482",
+            "version": "1.3.0"
+        }
+    ]
+}
